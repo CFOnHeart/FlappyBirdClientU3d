@@ -1,0 +1,455 @@
+Mono path[0] = 'E:/unity3d学习/projects/test1/ganjun_flappybird_Data/Managed'
+Mono path[1] = 'E:/unity3d学习/projects/test1/ganjun_flappybird_Data/Mono'
+Mono config path = 'E:/unity3d学习/projects/test1/ganjun_flappybird_Data/Mono/etc'
+PlayerConnection initialized from E:/unity3d学习/projects/test1/ganjun_flappybird_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55146
+Multi-casting "[IP] 192.168.12.227 [Port] 55146 [Flags] 3 [Guid] 1688862339 [EditorId] 2359141407 [Version] 1048832 [Id] WindowsPlayer(JY000397) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55146]...
+PlayerConnection accepted from [192.168.150.1] handle:0x268
+Started listening to [0.0.0.0:55146]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56339
+PlayerConnection already initialized - listening to [0.0.0.0:55146]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1008 MB
+    Driver:   10.18.14.4414
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.331 seconds
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\unity3d学习\projects\test1\ganjun_flappybird_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.137402 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5dfc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.589875 ms
+System memory in use before: 26.9 MB.
+System memory in use after: 26.9 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.267143 ms (FindLiveObjects: 0.026685 ms CreateObjectMapping: 0.023752 ms MarkObjects: 0.192660 ms  DeleteObjects: 0.022872 ms)
+
+current y is at 1.492188
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TapToGame:Start() (at E:\unity3d学习\projects\test1\Assets\Script\TapToGame.cs:22)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/TapToGame.cs Line: 22)
+
+get tap to start game
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TapToGame:Update() (at E:\unity3d学习\projects\test1\Assets\Script\TapToGame.cs:42)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/TapToGame.cs Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.636336 ms
+System memory in use before: 27.1 MB.
+System memory in use after: 27.1 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 468.
+Total: 0.446021 ms (FindLiveObjects: 0.045452 ms CreateObjectMapping: 0.033429 ms MarkObjects: 0.350718 ms  DeleteObjects: 0.014955 ms)
+
+Background Move begin
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BackgroundMove:Start() (at E:\unity3d学习\projects\test1\Assets\Script\BackgroundMove.cs:9)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/BackgroundMove.cs Line: 9)
+
+Background Move begin
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BackgroundMove:Start() (at E:\unity3d学习\projects\test1\Assets\Script\BackgroundMove.cs:9)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/BackgroundMove.cs Line: 9)
+
+Begin
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeScript:Start() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:47)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 47)
+
+curtime = 1483994670877.42
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeScript:Start() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:59)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 59)
+
+after PerPipeLoad
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeScript:Start() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:87)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 87)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+cur time score is : 1
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+cur time score is : 2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+cur time score is : 3
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+cur time score is : 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+cur time score is : 5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+cur time score is : 6
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+cur time score is : 7
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+cur time score is : 8
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+cur time score is : 9
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+cur time score is : 10
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+cur time score is : 11
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+cur time score is : 12
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PipeMove:Update() (at E:\unity3d学习\projects\test1\Assets\Script\PipeMove.cs:27)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeMove.cs Line: 27)
+
+bird's posx is: -1.09
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<PerPipeLoad>c__Iterator0:MoveNext() (at E:\unity3d学习\projects\test1\Assets\Script\PipeScript.cs:184)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/PipeScript.cs Line: 184)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+小鸟受到了管子或者地面的collision
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Bird:OnCollisionEnter2D(Collision2D) (at E:\unity3d学习\projects\test1\Assets\Script\Bird.cs:36)
+ 
+(Filename: E:/unity3d学习/projects/test1/Assets/Script/Bird.cs Line: 36)
+
+Waiting for finish
